@@ -1,4 +1,4 @@
-// File: D:\nextjs\src\app\(pages)\search\page.tsx
+// File: D:\nextjsdemo2\src\app\(pages)\search\page.tsx
 import * as entry from '../../../../../src/app/(pages)/search/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
